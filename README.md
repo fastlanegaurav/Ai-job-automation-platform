@@ -1,4 +1,4 @@
-# 🤖 GK AI Job Application Agent
+# 🤖 AI Job Application Agent
 
 > A live, AI-powered job search and application agent built on Gaurav Kumar's CV.  
 > Searches for relevant DevOps / Cloud / TPM roles and auto-generates tailored cover letters, form data, and interview talking points — powered by Claude AI.
