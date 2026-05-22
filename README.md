@@ -173,7 +173,7 @@ const AGENT_CONFIG = {
 };
 ```
 
----
+--
 
 ## 📦 Deploy Options
 
@@ -217,6 +217,6 @@ MIT — free to use and modify.
 
 ## 👤 Author
 
-**Gaurav Kumar** · DevOps Engineer & Technical Project Manager  
+**Gaurav Kumar** · DevOps Engineer  
 📧 gaurav04099@gmail.com · 🔗 [linkedin.com/in/gaurav0090](https://linkedin.com/in/gaurav0090)  
 📍 Bengaluru, India
