@@ -5,7 +5,7 @@
 
 **Live Demo:** https://gaurav0090.github.io/ai-job-agent
 
----
+--
 
 ## ✨ Features
 
